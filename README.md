@@ -8,7 +8,6 @@ What this buildpack does
  * Install `bundle`
  * Run `bower install`
  * Run `bundle install`
- * Run `bundle exec compass compile`
  * Run `gulp heroku:$NODE_ENV` (by default, it expands to `heroku:production`)
  * Run `grunt heroku:$NODE_ENV`
 
